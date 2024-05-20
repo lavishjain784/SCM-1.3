@@ -1,5 +1,14 @@
 # QuickEats 🍜
 
+# Team members:
+
+1. Lavish-2310990724 Email id: lavish0724.be23@chitkara.edu.in Role:Create wireframes, mockups, and prototypes for the website.Design an intuitive and user-friendly interface.Conduct user experience research and implement design improvements based on feedback.Oversee project planning and timeline management.Coordinate between the development tasks and ensure milestones are met.Communicate with stakeholders, including restaurant partners and potential customers.Develop marketing strategies to promote QuickEats.Manage social media and other marketing channels.Implement customer engagement programs like loyalty programs and referral bonuses.Ensure implementation of security measures such as HTTPS, SSL, and data encryption.Regularly review and update security protocols to protect user data.
+
+2. lovisha-2310990726 Email id: lovisha0726.be23@chitkara.edu.in Role:Design and implement the user interface using HTML, CSS, JavaScript, and a modern frontend framework like React.js or Angular.Ensure responsive design for optimal viewing on various devices.Develop server-side logic using Node.js and Express.js.Design and manage the database with MongoDB or PostgreSQL.
+Implement RESTful APIs for communication between frontend and backend.Conduct unit testing and integration testing for both frontend and backend components.
+Perform debugging and troubleshooting to ensure smooth functionality.Handle ongoing maintenance and updates.
+Monitor performance and scalability to accommodate user growth.
+
 # Project Description:
 QuickEats is an online food ordering platform designed to provide users with a seamless and efficient way to browse restaurant menus, place orders, and track deliveries. The platform aims to bridge the gap between customers and local restaurants, offering a variety of cuisines to cater to diverse tastes and preferences.
 
