@@ -1,4 +1,4 @@
-### QuickEats 🍜
+# QuickEats 🍜
 
 # Project Description:
 QuickEats is an online food ordering platform designed to provide users with a seamless and efficient way to browse restaurant menus, place orders, and track deliveries. The platform aims to bridge the gap between customers and local restaurants, offering a variety of cuisines to cater to diverse tastes and preferences.
