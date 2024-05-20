@@ -1,0 +1,6 @@
+.bill{
+  /* display: flex; */
+  border: 1px solid;
+  height: 350px;
+  width:  525px;
+}
